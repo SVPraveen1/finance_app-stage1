@@ -160,10 +160,6 @@ finance-tracker-stage1/
 - Modify the colors, labels, and tooltips as needed
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - [Next.js](https://nextjs.org/)
